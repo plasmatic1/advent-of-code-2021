@@ -1,3 +1,3 @@
 # advent-of-code-2021
  
-Advent of Code 2021 Solutions, written in Ruby.
+Advent of Code 2021 Solutions, written in ~~Ruby~~ Haskell.
